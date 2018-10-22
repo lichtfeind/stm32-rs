@@ -71,3 +71,4 @@ _include:
  - ../peripherals/rcc/rcc_f1.yaml
  - ../peripherals/dma/dma_v1.yaml
  - ../peripherals/iwdg/iwdg.yaml
+ - ../peripherals/usb/usb.yaml
