@@ -1,0 +1,21 @@
+"OTG_FS_DEVICE":
+  _array:
+#    "DIEPCTL?": {}
+    "DIEPINT?": {}
+#    "DIEPTSIZ?": {}
+#    "DOEPCTL?": {}
+    "DOEPINT?": {}
+#    "DOEPTSIZ?": {}
+    "DTXFSTS?": {}
+
+"OTG_FS_GLOBAL":
+  _array:
+    "DIEPTXF?": {}
+
+"OTG_FS_HOST":
+  _array:
+    "HCCHAR?": {}
+    "HCINT?": {}
+    "HCINTMSK?": {}
+    "HCTSIZ?": {}
+

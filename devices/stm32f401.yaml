@@ -47,3 +47,4 @@ _include:
  - ../peripherals/iwdg/iwdg.yaml
  - common_patches/rtc/rtc_bkpr.yaml
  - ../peripherals/usb/usb_otg_fs_rename.yaml
+ - ../peripherals/usb/usb_otg_fs_arrays.yaml
