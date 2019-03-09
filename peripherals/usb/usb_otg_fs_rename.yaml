@@ -1,0 +1,134 @@
+"OTG_FS_DEVICE":
+  _modify:
+    FS_DAINT:
+      name: DAINT
+    FS_DAINTMSK:
+      name: DAINTMSK
+    FS_DCFG:
+      name: DCFG
+    FS_DCTL:
+      name: DCTL
+    FS_DIEPCTL0:
+      name: DIEPCTL0
+    FS_DIEPMSK:
+      name: DIEPMSK
+    FS_DOEPMSK:
+      name: DOEPMSK
+    FS_DSTS:
+      name: DSTS
+
+"OTG_FS_GLOBAL":
+  _modify:
+    FS_GOTGCTL:
+      name: GOTGCTL
+    FS_GOTGINT:
+      name: GOTGINT
+    FS_GAHBCFG:
+      name: GAHBCFG
+    FS_GUSBCFG:
+      name: GUSBCFG
+    FS_GRSTCTL:
+      name: GRSTCTL
+    FS_GINTSTS:
+      name: GINTSTS
+    FS_GINTMSK:
+      name: GINTMSK
+    FS_GRXSTSR_Host:
+      name: GRXSTSR_Host
+    FS_GRXFSIZ:
+      name: GRXFSIZ
+    FS_GNPTXFSIZ_Host:
+      name: GNPTXFSIZ_Host
+    FS_GNPTXSTS:
+      name: GNPTXSTS
+    FS_GCCFG:
+      name: GCCFG
+    FS_CID:
+      name: CID
+    FS_HPTXFSIZ:
+      name: HPTXFSIZ
+    FS_DIEPTXF1:
+      name: DIEPTXF1
+    FS_DIEPTXF2:
+      name: DIEPTXF2
+    FS_DIEPTXF3:
+      name: DIEPTXF3
+
+"OTG_FS_HOST":
+  _modify:
+    FS_HCCHAR0:
+      name: HCCHAR0
+    FS_HCCHAR1:
+      name: HCCHAR1
+    FS_HCCHAR2:
+      name: HCCHAR2
+    FS_HCCHAR3:
+      name: HCCHAR3
+    FS_HCCHAR4:
+      name: HCCHAR4
+    FS_HCCHAR5:
+      name: HCCHAR5
+    FS_HCCHAR6:
+      name: HCCHAR6
+    FS_HCCHAR7:
+      name: HCCHAR7
+    FS_HCFG:
+      name: HCFG
+    FS_HCINT0:
+      name: HCINT0
+    FS_HCINT1:
+      name: HCINT1
+    FS_HCINT2:
+      name: HCINT2
+    FS_HCINT3:
+      name: HCINT3
+    FS_HCINT4:
+      name: HCINT4
+    FS_HCINT5:
+      name: HCINT5
+    FS_HCINT6:
+      name: HCINT6
+    FS_HCINT7:
+      name: HCINT7
+    FS_HCINTMSK0:
+      name: HCINTMSK0
+    FS_HCINTMSK1:
+      name: HCINTMSK1
+    FS_HCINTMSK2:
+      name: HCINTMSK2
+    FS_HCINTMSK3:
+      name: HCINTMSK3
+    FS_HCINTMSK4:
+      name: HCINTMSK4
+    FS_HCINTMSK5:
+      name: HCINTMSK5
+    FS_HCINTMSK6:
+      name: HCINTMSK6
+    FS_HCINTMSK7:
+      name: HCINTMSK7
+    FS_HCTSIZ0:
+      name: HCTSIZ0
+    FS_HCTSIZ1:
+      name: HCTSIZ1
+    FS_HCTSIZ2:
+      name: HCTSIZ2
+    FS_HCTSIZ3:
+      name: HCTSIZ3
+    FS_HCTSIZ4:
+      name: HCTSIZ4
+    FS_HCTSIZ5:
+      name: HCTSIZ5
+    FS_HCTSIZ6:
+      name: HCTSIZ6
+    FS_HCTSIZ7:
+      name: HCTSIZ7
+    FS_HFNUM:
+      name: HFNUM
+    FS_HPRT:
+      name: HPRT
+    FS_HPTXSTS:
+      name: HPTXSTS
+"OTG_FS_PWRCLK":
+  _modify:
+    FS_PCGCCTL:
+      name: PCGCCTL
